@@ -1,0 +1,19 @@
+Ember fire
+Flame fire fire
+Flamethrower fire fire fire
+Breeze air
+Air_Cutter air air
+Wind_Slice air air air
+Dribble water
+Water_Shot water water
+Hydro_Cannon water water water
+Boiling_Pulse fire water
+Flame_Tornado fire air
+Mist air water
+Scalding_Water fire fire water
+Enlarged_Flame fire fire air
+Flame_Tornato_Cutter air air fire
+Mist_Cutter air air water
+Boiling_Wave water water fire
+Heavy_Fog water water air
+Steam fire air water
